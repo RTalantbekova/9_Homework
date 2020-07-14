@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">L9_Homework</string>
+    <string name="welcome">WELCOME</string>
+    <string-array name="cities">
+        <item>Bishkek</item>
+        <item>Paris</item>
+        <item>Milan</item>
+        <item>Stambul</item>
+        <item>Venesia</item>
+        <item>New York</item>
+        <item>Tokyo</item>
+        <item>Moscow</item>
+        <item>Peking</item>
+        <item>Almaty</item>
+    </string-array>
+</resources>
